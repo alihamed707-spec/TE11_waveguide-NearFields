@@ -4,9 +4,9 @@ The project contains the following:
 
 •	There are two files:
 
-ApTE11.lu: this simulate the current distrbution on the surface of a TE11 mode circular waveguide aperture of radius 5*lambda
+ApTE11.lu: this simulate the current distrbution on the aperture surface of a TE11 mode circular waveguide aperture of radius 5*lambda
 
-ApTE21.lu: This simulate the current distribution on the surface of a TE21 mode circular waveguide of radius 5*lambda.
+ApTE21.lu: This simulate the current distribution on the aperture surface of a TE21 mode circular waveguide of radius 5*lambda.
 
 •	To run the above scripts the user must edit them in the Feko script editor.
 
