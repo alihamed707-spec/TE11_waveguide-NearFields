@@ -5,7 +5,8 @@ There are two files:
 ApTE11.lu: this simulate the current distrbution on the surface of a TE11 mode circular waveguide aperture of radius 5*lambda
 
 ApTE21.lu: This simulate the current distribution on the surface of a TE21 mode circular waveguide of radius 5*lambda.
-•	To run the script the user must edit it in the Feko script editor.
+
+•	To run the above scripts the user must edit them in the Feko script editor.
 
 
 3) Matlab program WTE11_08.m to compute the near field Ey radiated from the circular waveguide aperture mounted on a ground plane for TE11 mode.
@@ -14,7 +15,7 @@ at height z = 10*lambda in the plane y = 0 (0<x<10*lambda)
 the radius of the antenna is a = 5**lambda
 ph is the angle in azimuth direction
 
-for mor information go:
+for mor information go to:
 https://www.radioeng.cz/search.htm
 The paper:
 ‘’An Exact Analytical Model for Near Fields Radiated from Circular Waveguide Antennas’’
