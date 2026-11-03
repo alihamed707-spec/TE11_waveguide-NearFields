@@ -1,4 +1,4 @@
-% This program computes Ey for TEmn mode waveguide antenna, m=1, n=1
+% This program computes Ex and Ey for TEmn mode waveguide antenna, m=1, n=1
 % at height z = 10*lambda in the plane y = 0 (0<x<10*lambda)
 % the radius of the antenna is a = 5**lambda
 % ph is the angle in azimuth direction
