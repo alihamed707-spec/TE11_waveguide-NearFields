@@ -16,7 +16,7 @@ ApTE21.lu: This simulate the current distribution on the aperture surface of a T
 2) Matlab program WTE11_08.m to compute the near field Ey radiated from the circular waveguide aperture mounted on a ground plane for TE11 mode. 
 The program computes Ey for TEmn mode waveguide antenna, m=1, n=1
 at height z = 10*lambda in the plane y = 0 (0<x<10*lambda)
-the radius of the antenna is a = 5**lambda
+the radius of the antenna is a = 5*lambda
 ph is the angle in azimuth direction
 
 The program can be modified to compute the near fields for any mode TEmn by replacing X11, m=1, n=1, by the corresponding values for the mode TEmn.
