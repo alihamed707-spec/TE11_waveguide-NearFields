@@ -2,7 +2,7 @@ application = cf.Application.GetInstance()
 project = application:NewProject()
 
 -- Create a magnetic dipoles on   
--- the aperture of a TE11 circular waveguide 
+-- the aperture of a TE21 circular waveguide 
 -- a is the raduis of the aperture
 -- d is the spacing between any two adjacent dipoles.
 -- Amx is current strength of the x-directed dipole
